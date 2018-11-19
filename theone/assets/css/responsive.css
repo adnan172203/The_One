@@ -1,0 +1,1356 @@
+@media screen and (min-width: 1400px) {
+    .our-video{
+        height: 650px;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    
+/*=====================
+    HomePage One
+=======================*/ 
+    .our-video{
+        height: 465px;
+    }
+
+    
+    .banner-content h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    
+    .banner-content h1 {
+        margin-bottom: 10px;
+        font-size: 45px;
+    }
+    
+    .banner-content h3 {
+        margin-bottom: 30px;
+        letter-spacing: 5px;
+        font-size: 24px;
+    }
+    
+    .custom-btn {
+        padding: 6px 20px;
+        font-size: 14px;
+    }
+    
+    .counter-item {
+        padding: 89px 0 88px;
+    }
+        .video .video-content i {
+    top: 40.5%;
+}
+    
+    
+/*=====================
+    HomePage Two
+=======================*/   
+
+    
+    
+/*=====================
+    HomePage Three
+=======================*/   
+
+
+    
+  
+    
+    
+}
+
+@media screen and (max-width: 1366px) {
+    
+    .counter-item {
+        padding: 79px 0 78px;
+    }
+
+    .video .video-content i {
+        top: 50%;
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+        font-size: 28px;
+    }
+
+
+    .testimonial-content {
+        padding: 20px 0 150px;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 1200px) {
+    
+/*=====================
+    HomePage One
+=======================*/ 
+  .banner .item.style-one .banner-content h1{
+   		font-size: 63px;
+  }
+  .banner .item.active.style-one .banner-content h1 {
+    	font-size: 63px;
+  }
+  .banner .item.active.style-two .banner-content h1 {
+    	font-size: 63px;
+  }
+  .banner .item.active.style-three .banner-content h1 {
+    	font-size: 63px;
+  }
+  .banner .item.active.style-one .banner-content h2{
+  		font-size: 42px;
+  }
+  .banner .item.active.style-two .banner-content h2{
+  		font-size: 42px;
+  }
+  .banner .item.active.style-three .banner-content h2{
+  		font-size: 42px;
+  }
+  .banner .item.active.style-one .banner-content h3 {
+  		font-size: 31px;
+  }
+  .banner .item.active.style-two .banner-content h3 {
+  		font-size: 31px;
+  }
+  .banner .item.active.style-three .banner-content h3 {
+  		font-size: 31px;
+  }
+  .banner .item.style-one .banner-content h2{
+    	font-size: 42px;
+  }
+  .banner .item.style-one .banner-content h3{
+    font-size: 31px;
+  }
+    
+    .counter-item {
+        padding: 54px 0 54px;
+    }
+    
+    
+        
+    
+/*=====================
+    HomePage Two
+=======================*/   
+    
+  
+    
+    
+    
+    
+    
+    
+        
+    
+/*=====================
+    HomePage Three
+=======================*/   
+    
+  
+    
+    
+    
+    
+    
+  
+ 
+    
+}
+
+
+
+@media screen and (max-width: 1024px) {
+    .our-video{
+        height: 415px;
+    }
+}
+
+
+@media screen and (max-width: 991px) {
+    .comments-area {
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    
+/*=====================
+    HomePage One
+=======================*/ 
+    .our-video {
+        height: 423px;
+        background-position: center;
+    }
+    
+    .navbar-default .navbar-nav>li>a {
+        padding: 27px 9px;
+        font-size: 14px !important;
+    }
+    
+    .section-heading-extra {
+        text-align: center;
+        max-width: 620px;
+        margin: 0 auto 50px;
+    }
+    
+    .section-heading-extra p {
+        margin-bottom: 20px;
+    }
+    
+    .service-element,
+    .pricing-element,
+    .blog-element,
+    .footer-widget-element, .feature.style-three .feature-element{
+        margin: 0 auto 50px;
+    }
+    
+    .feature .section-padding {
+        padding: 100px 0px 60px;
+    }
+    
+    .counter-item-inner {
+        float: none;
+    }
+    
+    .counter-item {
+        text-align: center;
+    }
+    
+    .video-element img {
+        height: 400px;
+    }
+    
+    .project-content h5 {
+        font-size: 14px;
+        margin: 0;
+    }
+    
+    .testimonial-content p {
+        max-width: 580px;
+    }
+    
+    .team-element {
+        margin-bottom: 50px;
+    }
+    
+     
+    
+/*=====================
+    HomePage Two
+=======================*/   
+    .blog-thumb img {
+        width: 100%;
+    }
+    .sponsor-thumb {
+        width: 50%;
+    }
+    .count-element-inner {
+        padding: 35px 20px;
+    }
+    .counter {
+        font-size: 60px;
+    }
+    .count-span {
+        font-size: 60px;
+    }
+    
+    
+    
+    
+        
+    
+/*=====================
+    HomePage Three
+=======================*/   
+
+    
+    .counter-up .count-element {
+        margin-bottom: 50px;
+    }
+    
+    .widget-element.advertisment .widget-wrapper img {
+        width: 100%;
+    }
+    
+    .widget-element.advertisment {
+        margin-bottom: 50px;
+    }
+    
+/*=====================
+    Service Single
+=======================*/
+    
+    .post-type-thumb-left,
+    .post-type-thumb-right {
+        width: 50%;
+        padding: 5px;
+    }
+    
+/*=====================
+    project Single
+=======================*/
+    
+    .project.style-four .project-content {
+    margin-bottom: 50px;
+}
+
+    
+/*=====================
+    project Single
+=======================*/
+    
+    .single-team .team-thumb {
+        margin-bottom: 30px;
+}
+    
+/*=====================
+    Blog
+=======================*/
+    
+    .content-area .blog-element {
+        width: 100%;
+    }
+    
+/*=====================
+    Contact
+=======================*/
+    
+    
+    .cantact-area .template-info{
+        margin-bottom: 50px;
+    }
+ /*=====================
+    Shop
+=======================*/   
+    
+    #carousel {
+    width: 36%;
+    margin: auto;
+}
+    .shop-thumb-list {
+    margin-bottom: 50px;
+}
+    
+  .content-area.shop-single .main-area {
+    margin-bottom: 50px;
+}  
+/*==================
+  Banner Font
+===================*/ 
+  .banner .item.style-one .banner-content h1{
+   		font-size: 50px;
+  }
+  .banner .item.active.style-one .banner-content h1 {
+    	font-size: 50px;
+  }
+  .banner .item.active.style-two .banner-content h1 {
+    	font-size: 50px;
+  }
+  .banner .item.active.style-three .banner-content h1 {
+    	font-size: 50px;
+  }
+  .banner .item.active.style-one .banner-content h2{
+  		font-size: 33px;
+  }
+  .banner .item.active.style-two .banner-content h2{
+  		font-size: 33px;
+  }
+  .banner .item.active.style-three .banner-content h2{
+  		font-size: 33px;
+  }
+  .banner .item.active.style-one .banner-content h3 {
+  		font-size: 25px;
+  }
+  .banner .item.active.style-two .banner-content h3 {
+  		font-size: 25px;
+  }
+  .banner .item.active.style-three .banner-content h3 {
+  		font-size: 25px;
+  }
+  .banner .item.style-one .banner-content h2{
+    	font-size: 33px;
+  }
+  .banner .item.style-one .banner-content h3{
+    font-size: 25px;
+  }
+}
+
+
+
+@media screen and (max-width: 768px) {
+    
+/*=====================
+    Header 
+=======================*/
+
+.admin-bar .menu-fixed{
+    margin-top: 46px;
+}
+.admin-bar .transparent-menu{
+    margin-top: 46px;
+} 
+.navbar-brand {
+    height: auto;
+    padding: 12px 10px 25px;
+}
+/*  mobile menu   */
+    .mobile-menu-area {
+        display: block;
+    }
+/*=====================
+    HomePage One
+=======================*/ 
+ 
+    .sponsor-thumb {
+        width: 33%;
+    }
+  .section-padding {
+      padding: 100px 0;
+  }
+    .banner-element {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    transform: translateY(-50%) translateX(0%);
+}
+  
+  .navbar-default .navbar-collapse {
+      float: left;
+      width: 100%;
+  }
+  
+  .navbar-default .navbar-toggle {
+      margin-top: 28px;
+  }
+  
+  .navbar-default .navbar-nav>li>a {
+      padding: 2px 18px;
+  }
+  
+  .navbar-default .navbar-nav>li:last-child a {
+      padding-bottom: 15px;
+  }
+  
+  .shopping-area {
+      display: none;
+  }
+  
+  .search-cart-area {
+      display: none;
+  }
+  
+  .navbar-default .navbar-toggle:focus,
+  .navbar-default .navbar-toggle:hover {
+      background-color: transparent;
+  }
+  
+  .navbar-toggle.collapsed .icon-first {
+      transform: rotate(0deg) translate(0px, 0px);
+  }
+  
+  .navbar-toggle .icon-first {
+      transform: rotate(45deg) translate(4px, 5px);
+      transition: all .40s ease-in-out;
+  }
+  
+  .navbar-toggle.collapsed .icon-second {
+      opacity: 1;
+  }
+  
+  .navbar-toggle .icon-second {
+      opacity: 0;
+  }
+  
+  .navbar-toggle.collapsed .icon-third {
+      transform: rotate(0deg) translate(0px, 0px);
+  }
+  
+  .navbar-toggle .icon-third {
+      transform: rotate(-45deg) translate(4px, -5px);
+      -webkit-transition: all 0.3s ease-in-out;
+      -moz-transition: all 0.3s ease-in-out;
+      -ms-transition: all 0.3s ease-in-out;
+      -o-transition: all 0.3s ease-in-out;
+      transition: all 0.3s ease-in-out;
+  }
+  
+  .transparent-menu .menu-fixed .navbar-default .navbar-toggle {
+      border-color: #fff;
+  }
+  
+  .navbar-default .navbar-toggle {
+      border-color: #1e50d5;
+  }
+  
+  .transparent-menu .menu-fixed .navbar-default .navbar-toggle .icon-bar {
+      background-color: #fff;
+  }
+  
+  .navbar-default .navbar-toggle .icon-bar {
+      background-color: #1e50d5;
+  }
+  
+  .transparent-menu .navbar-default .navbar-toggle {
+      border-color: #fff;
+  }
+  
+  .transparent-menu .navbar-default .navbar-toggle .icon-bar {
+      background-color: #fff;
+  }
+  .counter,
+  .count-span {
+      font-size: 50px;
+  }
+  
+  .video-content i {
+      width: 60px;
+      height: 60px;
+      line-height: 60px;
+      margin-top: -30px;
+      margin-left: -30px;
+      font-size: 24px;
+  }
+  
+  .team-element {
+      width: 80%;
+      margin: 0 auto 50px;
+  }
+    .project-btn{
+        max-width: 620px;
+        margin: 0 auto 60px;
+    }
+  .counter-item-inner{
+  		padding-right: 0px;
+  }
+     .footer-row {
+        margin-left: 0px;
+        margin-right: 0px;
+    }   
+/*=====================
+    HomePage Two
+=======================*/   
+ 
+    .video-content h2 {
+    font-size: 25px;
+}
+    .video-content h2 {
+    font-size: 25px;
+    top: 62%;
+}
+    .testimonial-haeding {
+    text-align: center;
+    margin-top: 100px;
+}
+    .testimonial-content {
+    padding: 20px 0 100px;
+}
+    
+    
+        
+    
+/*=====================
+    single team
+=======================*/  
+ .single-team.row{
+    margin: 0;
+    padding: 0;
+ }
+        
+    
+/*=====================
+    Blog
+=======================*/   
+    
+  .main-area {
+    margin-bottom: 50px;
+}
+    
+  /*=====================
+    comments
+    =======================*/ 
+    .contact-form-area .form-group input[type="text"],
+    .contact-form-area .form-group input[type="email"],
+    .comment-respond .form-group input[type="text"],
+    .comment-respond .form-group input[type="email"]{
+        width: 100%;
+        float: none;
+        margin-right: 0px;
+    }
+    .contact-form-area .form-group input[type="email"],
+    .comment-respond .form-group input[type="email"]{
+        margin-top: 15px;   
+    }   
+    
+  /*=====================
+    Shop
+=======================*/   
+    
+    #carousel {
+    width: 40%;
+    margin: auto;
+}
+.shop-product-details {
+    margin-bottom: 50px;
+}
+  
+   pre{
+        font-size: 14px;
+   }  
+/*==================
+  Banner Font
+===================*/ 
+  .banner .item.style-one .banner-content h1{
+   		font-size: 40px;
+  }
+  .banner .item.active.style-one .banner-content h1 {
+    	font-size: 40px;
+  }
+  .banner .item.active.style-two .banner-content h1 {
+    	font-size: 40px;
+  }
+  .banner .item.active.style-three .banner-content h1 {
+    	font-size: 40px;
+  }
+  .banner .item.active.style-one .banner-content h2{
+  		font-size: 27px;
+  }
+  .banner .item.active.style-two .banner-content h2{
+  		font-size: 27px;
+  }
+  .banner .item.active.style-three .banner-content h2{
+  		font-size: 27px;
+  }
+  .banner .item.active.style-one .banner-content h3 {
+  		font-size: 20px;
+  }
+  .banner .item.active.style-two .banner-content h3 {
+  		font-size: 20px;
+  }
+  .banner .item.active.style-three .banner-content h3 {
+  		font-size: 20px;
+  }
+  .banner .item.style-one .banner-content h2{
+    	font-size: 27px;
+  }
+  .banner .item.style-one .banner-content h3{
+    font-size: 20px;
+  }   
+}
+
+
+
+@media screen and (max-width: 668px) {
+    /*====================== Comment Section ====================*/ 
+
+    .comments-area .children li.depth-4 ul.children li.depth-5{
+        
+    }
+    .children li.depth-5 .comments-author-name h4 a{
+        display: block;
+    }
+    .bg-page-header .page-header {
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 640px) {
+    
+/*=====================
+    HomePage One
+=======================*/ 
+    
+    .banner-content h1 {
+        font-size: 40px;
+    }
+    
+    .section-heading-extra {
+        max-width: 520px;
+    }
+    
+    .section-heading-extra h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    
+    .section-heading-extra h3 {
+        font-size: 30px;
+    }
+    
+    .testimonial-content p {
+        max-width: 420px;
+    }
+    
+    .footer-form .custom-btn {
+        position: static;
+        transform: none;
+        margin-top: 15px;
+    }
+    
+    .footer-form i {
+        top: 30%;
+        left: 4%;
+        transform: translateY(-80%);
+    }
+    
+    .footer-form input {
+        width: 100%;
+        font-size: 12px;
+        padding: 15px 10px 15px 45px;
+    }
+    
+    .project-content {
+        display: none;
+    } 
+        .button {
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    
+/*=====================
+    HomePage Two
+=======================*/   
+    
+  
+    
+    
+    
+    
+    
+    
+        
+    
+/*=====================
+    HomePage Three
+=======================*/   
+    .count-heading h3 {
+    font-size: 35px;
+    margin-bottom: 8px;
+}
+     .count-heading h2 {
+    font-size: 30px;
+}
+    
+    
+/*=====================
+    project Single
+=======================*/
+    
+    
+    .project.style-four .project-content{
+        display: block;
+    }
+    
+/*=====================
+    Blog
+=======================*/
+    
+  .content-area .blog-content-extra span {
+    float: none;
+    text-align: center;
+    display: block;
+}
+  .content-area .blog-content-extra .post-meta {
+    text-align: center;
+    margin: 0;
+}
+    
+    .custom-pagination li {
+    margin-bottom: 10px;
+}
+    .author-thumb {
+        display: none;
+    }
+    .author-info {
+        margin-left: 0;
+    }
+    .author-info h6{
+        font-size: 18px;
+    }
+    .comment-list.extra {
+        margin-left: 20px;
+    }
+    .comment-reply {
+        font-size: 12px;
+    }
+    
+    
+    
+      /*=====================
+    Shop
+=======================*/   
+    
+    #carousel {
+    width: 50%;
+    margin: auto;
+}
+
+  .content-area .contact-name {
+    float: none;
+}  
+/*==================
+  Banner Font
+===================*/ 
+  .banner .item.style-one .banner-content h1{
+   		font-size: 35px;
+  }
+  .banner .item.active.style-one .banner-content h1 {
+    	font-size: 35px;
+  }
+  .banner .item.active.style-two .banner-content h1 {
+    	font-size: 35px;
+  }
+  .banner .item.active.style-three .banner-content h1 {
+    	font-size: 35px;
+  }
+  .banner .item.active.style-one .banner-content h2{
+  		font-size: 23px;
+  }
+  .banner .item.active.style-two .banner-content h2{
+  		font-size: 23px;
+  }
+  .banner .item.active.style-three .banner-content h2{
+  		font-size: 23px;
+  }
+  .banner .item.active.style-one .banner-content h3 {
+  		font-size: 17px;
+  }
+  .banner .item.active.style-two .banner-content h3 {
+  		font-size: 17px;
+  }
+  .banner .item.active.style-three .banner-content h3 {
+  		font-size: 17px;
+  }
+  .banner .item.style-one .banner-content h2{
+    	font-size: 23px;
+  }
+  .banner .item.style-one .banner-content h3{
+    font-size: 17px;
+  }
+
+}
+@media screen and (max-width: 601px) {
+    .admin-bar .mobile-menu-area {
+        top: 127px;
+    } 
+    .admin-bar .menu-fixed .mobile-menu-area,
+    .admin-bar .theone-mobile-menu{
+        top: 81px;
+    } 
+    .admin-bar .menu-fixed {
+        margin-top: 0px;
+    }
+
+}
+@media screen and (max-width: 580px) {
+    .children li {
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+    .comments-author-name h4 a {
+        font-size: 13px;
+        display: block;
+    }
+    .comments-author-name h4 span {
+        font-size: 13px;
+    }
+    .blog-single-items .entry-comment p{
+        font-size: 13px;
+    }
+  /*==================
+  Banner Font
+===================*/ 
+  .banner .item.style-one .banner-content h1{
+   		font-size: 30px;
+  }
+  .banner .item.active.style-one .banner-content h1 {
+    	font-size: 30px;
+  }
+  .banner .item.active.style-two .banner-content h1 {
+    	font-size: 30px;
+  }
+  .banner .item.active.style-three .banner-content h1 {
+    	font-size: 30px;
+  }
+  .banner .item.active.style-one .banner-content h2{
+  		font-size: 20px;
+  }
+  .banner .item.active.style-two .banner-content h2{
+  		font-size: 20px;
+  }
+  .banner .item.active.style-three .banner-content h2{
+  		font-size: 20px;
+  }
+  .banner .item.active.style-one .banner-content h3 {
+  		font-size: 15px;
+  }
+  .banner .item.active.style-two .banner-content h3 {
+  		font-size: 15px;
+  }
+  .banner .item.active.style-three .banner-content h3 {
+  		font-size: 15px;
+  }
+  .banner .item.style-one .banner-content h2{
+    	font-size: 20px;
+  }
+  .banner .item.style-one .banner-content h3{
+    font-size: 15px;
+  }
+  .element-item,
+  .project.style-two .element-item {
+  	width: 50%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+    /*=============== Single page Comments ==============*/
+    .comment-meta{
+        position: relative;
+        padding-bottom: 10px;
+    }
+    .comment-author{
+        width: 45px;
+        height: 45px;
+        margin-top: 7px;
+    }
+    .comment-author img{
+        width: 45px;
+        height: 45px;
+    }
+    .comments-author-name h4 small{
+        display: block;
+        padding-left: 0px;
+        line-height: 1.5;
+    }
+    .comments-author-name {
+        float: none;
+    }
+    .comment-list{
+        padding: 10px 18px 20px;
+    }
+    .reply-icon {
+        float: none;
+    }
+    .reply-icon h6 a{
+        position: absolute;
+    bottom: 0;
+    left: 0px;
+    }
+    .nav-links a {
+        font-size: 14px;
+    }
+    .progressbar {
+        width: 100%;
+        text-align: center;
+        float: none;
+        margin-bottom: 30px;
+    }
+    .circle {
+        margin: 0 auto 12px;
+    }
+  
+  .team-element {
+  	width: 100%;
+  }
+  .sponsor-thumb {
+      width: 50%;
+  }
+  .contact-name, .contact-subject {
+  		width: 100%;
+    	float: none;
+  }
+ .contact-num, .contact-email {
+    width: 100%;
+    float: none;
+	}
+}
+
+@media screen and (max-width: 400px) {
+    
+/*=====================
+    HomePage One
+=======================*/ 
+    .footer-form i {
+        top: 29%;
+        left: 4%;
+        transform: translateY(-80%);
+        font-size: 14px;
+    }
+    
+    .footer-form input {
+        width: 100%;
+        font-size: 12px;
+        padding: 15px 5px 15px 30px;
+    }
+    
+    .footer-form .custom-btn {
+        padding: 5px 15px 3px;
+        font-size: 14px;
+    }
+    
+    .feature-element,
+    .service-element,
+    .pricing-element,
+    .blog-element,
+    .footer-widget-element,
+    .team-element, .feature.style-three .feature-element {
+        width: 100%;
+    }
+    
+    .testimonial-content p {
+        max-width: 310px;
+    }
+    
+   .testimonial-content {
+    padding: 0px 0 60px;
+}
+    
+
+    .project-btn {
+        padding-top: 25px;
+    }
+    
+    .banner-content h2 {
+        font-size: 25px;
+    }
+    
+    .banner-content h1 {
+        font-size: 28px;
+    }
+    
+    .banner-content h3 {
+        margin-bottom: 25px;
+        letter-spacing: 1px;
+        font-size: 20px;
+    }
+    
+    .sponsor-thumb {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    
+    .section-padding {
+        padding: 30px 0;
+    }
+    
+    .post-meta li {
+        margin-right: 6px;
+    }
+    .banner.style-three .banner-content h1 {
+    font-size: 25px;
+}
+    .banner.style-three .banner-content h3 {
+    margin-bottom: 25px;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+    .count-element:nth-child(1):after,
+    .count-element:nth-child(4):after{
+        display: none;
+    }
+    .count-element:nth-child(1):before,
+    .count-element:nth-child(4):before{
+        display: none;
+    }
+        
+    
+/*=====================
+    Service Single Two
+=======================*/   
+    
+  
+    .video-content h2 {
+    font-size: 20px;
+    top: 60%;
+}
+    
+    
+    
+    
+    
+        
+    
+/*=====================
+    HomePage Three
+=======================*/   
+    
+    
+    .post-type-thumb-left,
+    .post-type-thumb-right {
+        width: 100%;
+    }
+  
+    
+/*=====================
+    project Single
+=======================*/  
+    
+    
+    .custom-button-next {
+        left: 2px;
+    }
+    
+    .custom-button-prev {
+        right: 2px;
+    }
+  
+    
+/*=====================
+    project Single
+=======================*/ 
+    
+
+ .progressbar {
+    width: 50%;
+    float: left;
+    margin-bottom: 30px;
+}
+    
+    .circle {
+    width: 75px;
+    height: 75px;
+    line-height: 90px;
+    margin-bottom: 0;
+}
+    
+    .team-widget-content ul li {
+    width: 50%;
+    margin-bottom: 20px;
+}
+    .project.style-three.extra .grid-item .project-element {
+    padding: 0px;
+}
+    
+    
+/*=====================
+    Blog
+=======================*/
+    
+    .custom-button-next.blog-left i, .custom-button-prev.blog-right i {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    padding-right: 4px;
+    font-size: 14px;
+}
+     .video-element img {
+    height: 250px;
+}
+    .author-info h6 {
+    font-size: 15px;
+}
+/*     .comment-time {
+font-size: 13px;
+}
+.comment-reply {
+float: none;
+text-align: center;
+margin: 10px 0 15px;
+display: block;
+} */
+    .tag-element {
+    float: none;
+    text-align: center;
+}
+ .share-element {
+    float: none;
+    text-align: center;
+}   
+    
+       /*=====================
+    Shop
+=======================*/   
+    
+    #carousel {
+    width: 68%;
+    margin: auto;
+}
+    .select-option {
+    margin-bottom: 10px;
+}   
+    .review-rating {
+    width: 100%;
+    display: block;
+    margin-bottom: 25px;
+    float: none;
+}
+    .content-area.shop-single .contact-name, .content-area.shop-single .contact-subject{
+        width: 100%;
+    }
+  .banner .item .banner-content a.custom-btn.btn-one{
+  	margin-bottom: 10px;
+  }
+}
+
+
+@media screen and (max-width: 320px) {
+    
+/*=====================
+    HomePage One
+=======================*/ 
+
+
+    .blog-content-extra span {
+        float: none;
+        text-align: center;
+        display: block;
+    }
+    
+    .blog-content-extra .post-meta {
+        text-align: center;
+    }
+    
+    .pricing-heading h2 {
+        font-size: 25px;
+    }
+    .testimonial-haeding h3 {
+    font-size: 30px;
+}
+    .pricing-heading span {
+        font-size: 30px;
+    }
+    
+    .section-heading h2 {
+        line-height: 40px;
+        margin-bottom: 10px;
+        font-size: 30px;
+    }
+    
+    .count-element {
+        width: 100%;
+    }
+    
+    .banner-content h1 {
+        font-size: 24px;
+    }
+    
+    .video-element img {
+        height: 300px;
+    }
+    
+    .testimonial-content p {
+        max-width: 222px;
+        font-size: 14px;
+    }
+    .testimonial-content p:before {
+        left: -17%;
+    }
+    
+    .testimonial-content p:after {
+        right: -17%;
+    }
+    .blog-content h4 {
+    margin-bottom: 4px;
+    font-size: 18px;
+}
+    .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+    bottom: 16px;
+}
+    
+     
+    
+/*=====================
+    HomePage Two
+=======================*/   
+
+    .video-content h2 {
+        font-size: 18px;
+        top: 62%;
+    }
+    
+    .video-content h2 {
+        font-size: 18px;
+        top: 60%;
+    }
+    
+    .banner.style-two .banner-content {
+        text-align: center;
+    }
+
+    
+    .banner-content h3 {
+        margin-bottom: 42px;
+        font-size: 15px;
+    }
+    
+    .banner-content h2 {
+        font-size: 24px;
+        margin-bottom: 5px;
+    }
+ .video-element img {
+    height: 200px;
+}
+    
+        
+    
+/*=====================
+    HomePage Three
+=======================*/ 
+    .banner.style-three .banner-content h1 {
+    font-size: 20px;
+        margin-bottom: 8px;
+}
+    .banner.style-three .banner-content h3 {
+    font-size: 13px;
+}
+    .video-content h2 {
+    font-size: 18px;
+    top: 68%;
+}
+  
+  .video .video-content i {
+    top: 48.5%;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+}  
+    
+/*=====================
+    Team Single
+=======================*/
+    
+    
+    .team-single .social-media li i {
+    margin-bottom: 10px;
+}
+  
+    .progressbar {
+    width: 100%;
+    float: none;
+    margin-bottom: 50px;
+    text-align: center;
+}
+    .circle {
+    text-align: center;
+    width: 100%;
+}
+    .team-widget-heading {
+    margin-bottom: 50px;
+    text-align: center;
+}
+   .team-widget-content ul li {
+    width: 100%;
+    margin-bottom: 40px;
+} 
+    .page-header-content h2 {
+    font-size: 30px;
+}
+
+    ol.children{
+        margin-left: 0.9em;;
+    }
+    .children {
+        padding-left: 15px;
+    }
+  .element-item, .project.style-two .element-item {
+  		float: none;
+    	width: 100%;
+  }
+}
+
+
